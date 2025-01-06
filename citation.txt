@@ -2,8 +2,6 @@
     author = "Wang, Di and Hu, Meiqi and Jin, Yao and Miao, Yuchun and Yang, Jiaqi and Xu, Yichu and Qin, Xiaolei and Ma, Jiaqi and Sun, Lingyu and Li, Chenxing and Fu, Chuan and Chen, Hongruixuan and Han, Chengxi and Yokoya, Naoto and Zhang, Jing and Xu, Minqiang and Liu, Lin and Zhang, Lefei and Wu, Chen and Du, Bo and Tao, Dacheng and Zhang, Liangpei",
     archiveprefix = "arXiv",
     eprint = "2406.11519",
-    primaryclass = "cs.CV",
     title = "{HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model}",
-    url = "https://arxiv.org/abs/2406.11519",
     year = "2024"
 }
