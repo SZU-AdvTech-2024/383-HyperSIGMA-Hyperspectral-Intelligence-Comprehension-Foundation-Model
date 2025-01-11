@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sz192" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="sz192">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home5/wsq/HyperSIGMA" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sz193">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home7/wsq/HyperSIGMA" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wsq@172.31.224.192:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home5/wsq/HyperSIGMA" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wsq@172.31.224.192:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wsq@172.31.224.193:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home7/wsq/HyperSIGMA" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
